@@ -1,4 +1,1 @@
-write code here
-usage of git diff --staged
-These change is done from git working directory
-These change is done from github remote repo
+echo "Hello world"
